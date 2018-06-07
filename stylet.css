@@ -1,0 +1,38 @@
+a:link {
+color:purple;
+}
+a:hover {
+color:orange;
+}
+.table {
+background:url('image15.jpeg');
+margin-left:200px;
+color:black;
+font-size:40px;
+font-style:italic;
+font-weight:bold;
+}
+
+h2 {
+
+margin-left:150px;
+color:black;
+font-size:60px;
+font-style:italic;
+font-weight:bold;
+}
+
+.itable {
+background:url('image16.jpeg');
+
+width:600;
+color:black;
+font-size:30px;
+font-style:italic;
+font-weight:bold;
+border-color:black;
+border-width:medium;
+border-style:solid;
+border-radius:10px;
+padding:20px
+}
